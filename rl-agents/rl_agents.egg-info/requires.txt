@@ -1,0 +1,13 @@
+docopt
+gym
+matplotlib
+numpy
+pandas
+pygame
+seaborn
+six
+tensorboardX
+torch>=1.2.0
+
+[dev]
+scipy
